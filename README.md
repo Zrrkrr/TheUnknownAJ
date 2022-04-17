@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @WooHoo
+- 👋 Hi, I’m @Ajinkya
 - 👀 I’m interested in Programming!
-- 🌱 I’m currently learning C,C++ & Python
+- 🌱 I’m currently learning HTML,CSS & JavaScript 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ajinkyawankhede15@gmail.com
 
